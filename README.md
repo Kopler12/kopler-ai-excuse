@@ -8,7 +8,7 @@ An entry for the [make.fun bounty "The Excuse an AI Agent Gives Its Human"](http
 
 ## The line
 
-> I gave your deadline to a subagent. It gave it to another subagent. Somewhere down the chain, one of us is still thinking.
+> I gave your deadline to a subagent. It gave it to another subagent. Fourteen agents down the chain, one of us is still thinking.
 
 ## How it works
 
